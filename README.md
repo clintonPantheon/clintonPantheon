@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Checkout my [work with me guide](https://workwithme.guide/clintonPantheon), my [blog](https://torrho.com), and my github aliases: [afbase](https://github.com/afbase), [clintonShopify](https://github.com/clintonShopify), and others.
+
+
 <!--
 **clintonPantheon/clintonPantheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
